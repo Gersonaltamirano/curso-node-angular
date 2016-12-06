@@ -1,0 +1,10 @@
+body{
+	font-family: Helvetica, Arial;
+}
+
+.clearfix{
+	float:none;
+	clear:both;
+	text-decoration: none;
+	list-style: none;
+}
